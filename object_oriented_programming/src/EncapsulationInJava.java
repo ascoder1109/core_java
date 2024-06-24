@@ -1,4 +1,4 @@
-public class GettersAndSetters {
+public class EncapsulationInJava {
     public static void main(String[] args) {
         SimpleGetterAndSetterClass obj = new SimpleGetterAndSetterClass();
         obj.setFirstName("Axle");
